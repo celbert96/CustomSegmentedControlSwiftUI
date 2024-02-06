@@ -11,6 +11,7 @@
 		B7F3F39C2B72E3E500887801 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7F3F39B2B72E3E500887801 /* ContentView.swift */; };
 		B7F3F39E2B72E3E600887801 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7F3F39D2B72E3E600887801 /* Assets.xcassets */; };
 		B7F3F3A12B72E3E600887801 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7F3F3A02B72E3E600887801 /* Preview Assets.xcassets */; };
+		B7F3F3A82B72E41500887801 /* CustomSegmentedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7F3F3A72B72E41500887801 /* CustomSegmentedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B7F3F39B2B72E3E500887801 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B7F3F39D2B72E3E600887801 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7F3F3A02B72E3E600887801 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B7F3F3A72B72E41500887801 /* CustomSegmentedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSegmentedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				B7F3F39B2B72E3E500887801 /* ContentView.swift */,
 				B7F3F39D2B72E3E600887801 /* Assets.xcassets */,
 				B7F3F39F2B72E3E600887801 /* Preview Content */,
+				B7F3F3A72B72E41500887801 /* CustomSegmentedView.swift */,
 			);
 			path = CustomSegmentedControl;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7F3F3A82B72E41500887801 /* CustomSegmentedView.swift in Sources */,
 				B7F3F39C2B72E3E500887801 /* ContentView.swift in Sources */,
 				B7F3F39A2B72E3E500887801 /* CustomSegmentedControlApp.swift in Sources */,
 			);
